@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lcsguimaraesss
 - 👀 I’m interested in learn new stuffs
-- 🌱 I’m currently learning HTML and JavaScript
+- 🌱 I’m currently learning HTML,CSS and JavaScript
 - 💞️ I’m looking to collaborate
 - 📫 You can reach me on my LinkedIn lcsguimaraesss
 
